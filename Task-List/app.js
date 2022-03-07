@@ -144,7 +144,5 @@ function filterTask(e){
             task.style.display='none';
         }
     }) ;
-
-
 }
 
